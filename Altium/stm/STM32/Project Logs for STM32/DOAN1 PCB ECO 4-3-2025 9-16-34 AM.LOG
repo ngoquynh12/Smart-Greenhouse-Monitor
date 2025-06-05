@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=* NewDesignator=LCD Oled
+Add Component: Footprint Not Found BUZZER
+Add Component: Footprint Not Found ESP8266 ESP-01
+Add Pin To Net: Unknown Pin: Pin BZ1-1
+Add Pin To Net: Unknown Pin: Pin BZ1-2
+Add Pin To Net: Unknown Pin: Pin LCD Oled-GND
+Add Pin To Net: Unknown Pin: Pin LCD Oled-SCL
+Add Pin To Net: Unknown Pin: Pin LCD Oled-SDA
+Add Pin To Net: Unknown Pin: Pin LCD Oled-VCC
+Add Pin To Net: Unknown Pin: Pin M1-1
+Add Pin To Net: Unknown Pin: Pin M1-2
+Add Pin To Net: Unknown Pin: Pin M1-6
+Add Pin To Net: Unknown Pin: Pin M1-7
+Add Pin To Net: Unknown Pin: Pin M1-8
+Add Class Member: Failed to add class member : Component BZ1 Buzzer
+Add Class Member: Failed to add class member : Component M1 ESP8266 ESP-01
+Added Member To Class: ClassName=DOAN1 Member=Component  Header 20

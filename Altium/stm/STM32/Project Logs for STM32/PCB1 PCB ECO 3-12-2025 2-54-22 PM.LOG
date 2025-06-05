@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=3.3V Pin=ESP-12F-5
+Removed Pin From Net: NetName=5V Pin=R2-2
+Removed Pin From Net: NetName=5V Pin=R3-2
+Removed Pin From Net: NetName=3.3V Pin=R4-2
+Removed Pin From Net: NetName=5V Pin=R5-2
+Removed Pin From Net: NetName=3.3V Pin=R6-2
+Removed Pin From Net: NetName=5V Pin=R7-2
+Removed Pin From Net: NetName=3.3V Pin=R9-1
+Removed Member From Class: ClassName=Sheet1 Member=R2
+Removed Member From Class: ClassName=Sheet1 Member=R4
+Removed Member From Class: ClassName=Sheet1 Member=R5
+Removed Member From Class: ClassName=Sheet1 Member=R6
+Removed Member From Class: ClassName=Sheet1 Member=R7
+Removed Member From Class: ClassName=Sheet1 Member=R9
+Added Pin To Net: NetName=3.3V Pin=BH1750 I2C-1
+Added Pin To Net: NetName=3.3V Pin=CAM BIEN DAT-1
+Added Pin To Net: NetName=3.3V Pin=ESP-12F-1
+Added Pin To Net: NetName=GND Pin=ESP-12F-5
+Added Pin To Net: NetName=3.3V Pin=ESP-12F-6
+Added Pin To Net: NetName=5V Pin=LCD WITH I2C-2
+Added Pin To Net: NetName=5V Pin=RELAY-1
+Added Member To Class: ClassName=Sheet1 Member=Component ESP-12F
+Added Member To Class: ClassName=Sheet1 Member=Component  Header 20
+Added Member To Class: ClassName=Sheet1 Member=Component  Header 20

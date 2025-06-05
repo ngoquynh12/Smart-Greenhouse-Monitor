@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=3.3V Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Member From Class: ClassName=DOAN1 Member=D1
+Added Member To Class: ClassName=DOAN1 Member=Component  Header 20
+Added Member To Class: ClassName=DOAN1 Member=Component  Header 20

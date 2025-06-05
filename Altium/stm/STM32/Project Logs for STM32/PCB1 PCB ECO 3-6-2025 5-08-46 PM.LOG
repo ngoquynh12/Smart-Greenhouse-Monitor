@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=5V Pin=R2-1
+Removed Pin From Net: NetName=5V Pin=R3-1
+Removed Pin From Net: NetName=5V Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=3.3V Pin=R6-2
+Removed Pin From Net: NetName=5V Pin=R7-1
+Removed Member From Class: ClassName=Sheet1 Member=BH1750 I2C
+Removed Member From Class: ClassName=Sheet1 Member=CAM BIEN DAT
+Removed Member From Class: ClassName=Sheet1 Member=
+Removed Member From Class: ClassName=Sheet1 Member=P?
+Removed Member From Class: ClassName=Sheet1 Member=R2
+Removed Member From Class: ClassName=Sheet1 Member=R3
+Removed Member From Class: ClassName=Sheet1 Member=R5
+Removed Member From Class: ClassName=Sheet1 Member=R6
+Removed Member From Class: ClassName=Sheet1 Member=R7
+Removed Member From Class: ClassName=Sheet1 Member=RELAY

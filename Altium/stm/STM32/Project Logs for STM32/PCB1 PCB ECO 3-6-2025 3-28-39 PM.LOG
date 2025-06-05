@@ -1,0 +1,15 @@
+Change Component Footprint: Designator= Old Footprint=HDR/Header/20 New Footprint=HDR/Header/4
+Change Component Comment : Designator= Old Comment=Header 20 New Comment=LCD WITH I2C
+Added Component: Designator=*(HDR/Header/3)
+Added Component: Designator=BH1750 I2C(HDR/Header/5)
+Added Component: Designator=CAM BIEN DAT(HDR/Header/4)
+Add Component: Footprint Not Found XDCR_CMI-1210-5-95T
+Added Component: Designator=RELAY(HDR/Header/4)
+Added Component: Designator=(HDR/Header/20)
+Added Member To Class: ClassName=Sheet1 Member=Component * DHT22
+Added Member To Class: ClassName=Sheet1 Member=Component BH1750 I2C
+Added Member To Class: ClassName=Sheet1 Member=Component CAM BIEN DAT
+Add Class Member: Failed to add class member : Component LS? BUZZER
+Added Member To Class: ClassName=Sheet1 Member=Component RELAY
+Added Member To Class: ClassName=Sheet1 Member=Component  Header 20
+Added Member To Class: ClassName=Sheet1 Member=Component  Header 20

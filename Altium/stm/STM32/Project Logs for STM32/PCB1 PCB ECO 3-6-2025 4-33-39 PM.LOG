@@ -1,0 +1,27 @@
+Change Designator: Invalid Designator
+Add Component: Footprint Not Found FP-PS1440P02BT-MFG
+Added Component: Designator=P?(HDR/Header/4)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin LS1-1
+Add Pin To Net: Unknown Pin: Pin LS1-2
+Added Pin To Net: NetName=A1 Pin=P?-1
+Added Member To Class: ClassName=Sheet1 Member=Component BH1750 I2C
+Added Member To Class: ClassName=Sheet1 Member=Component CAM BIEN DAT
+Add Class Member: Failed to add class member : Component LS1 PS1440P02BT
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component R2 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R3 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R5 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R6 R
+Added Member To Class: ClassName=Sheet1 Member=Component R7 10K
+Added Member To Class: ClassName=Sheet1 Member=Component RELAY
+Added Member To Class: ClassName=Sheet1 Member=Component  Header 20
+Added Member To Class: ClassName=Sheet1 Member=Component  Header 20
+Added Member To Class: ClassName=Sheet1 Member=Component  DHT22
+Added Member To Class: ClassName=Sheet1 Member=Component  LCD WITH I2C
+Added Member To Class: ClassName=Sheet1 Member=Component U1 L7805ACV

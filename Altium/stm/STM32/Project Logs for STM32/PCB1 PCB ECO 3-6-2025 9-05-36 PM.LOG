@@ -1,0 +1,30 @@
+Change Component Designator: OldDesignator=* NewDesignator=DHT22
+Change Component Designator: OldDesignator=* NewDesignator=LCD WITH I2C
+Change Component Designator: OldDesignator= NewDesignator=ESP12-F
+Add Pin To Net: Unknown Pin: Pin CAM BIEN DAT-A0
+Add Pin To Net: Unknown Pin: Pin CAM BIEN DAT-GND
+Add Pin To Net: Unknown Pin: Pin CAM BIEN DAT-VCC
+Add Pin To Net: Unknown Pin: Pin DHT22-GND
+Add Pin To Net: Unknown Pin: Pin DHT22-OUT
+Add Pin To Net: Unknown Pin: Pin ESP12-F-GND
+Add Pin To Net: Unknown Pin: Pin ESP12-F-RX
+Add Pin To Net: Unknown Pin: Pin ESP12-F-TX
+Add Pin To Net: Unknown Pin: Pin LCD WITH I2C-GND
+Add Pin To Net: Unknown Pin: Pin LCD WITH I2C-SCL
+Add Pin To Net: Unknown Pin: Pin LCD WITH I2C-SDA
+Add Pin To Net: Unknown Pin: Pin RELAY-GND
+Add Pin To Net: Unknown Pin: Pin RELAY-IN1
+Add Pin To Net: Unknown Pin: Pin RELAY-IN2
+Add Pin To Net: Unknown Pin: Pin RELAY-VCC
+Added Pin To Net: NetName=NetDHT22_VCC Pin=R7-1
+Added Net: Name=NetDHT22_VCC
+Added Pin To Net: NetName=NetESP12-F_EN Pin=R9-2
+Added Net: Name=NetESP12-F_EN
+Added Pin To Net: NetName=NetESP12-F_VCC Pin=R4-1
+Added Net: Name=NetESP12-F_VCC
+Added Pin To Net: NetName=NetLCD WITH I2C_VCC Pin=R5-1
+Added Net: Name=NetLCD WITH I2C_VCC
+Added Member To Class: ClassName=Sheet1 Member=Component ESP12-F
+Added Member To Class: ClassName=Sheet1 Member=Component LCD WITH I2C
+Added Member To Class: ClassName=Sheet1 Member=Component R3 10K
+Added Member To Class: ClassName=Sheet1 Member=Component  Header 20

@@ -1,0 +1,196 @@
+Added Component: Designator=BH1750 I2C(HDR/Header/5)
+Added Component: Designator=BZ1(BUZZER)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAP Ceramic/W200)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP Ceramic/W200)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP Ceramic/W200)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP Ceramic/W200)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CAM BIEN DAT(HDR/Header/4)
+Added Component: Designator=CON1(CONN/DC/PWR/5.0MM)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found LED 10MM - RED
+Added Component: Designator=DHT22(HDR/Header/3)
+Added Component: Designator=ESP01(ESP8266 ESP-01)
+Added Component: Designator=LCD Oled(HDR/Header/4)
+Added Component: Designator=P1(HDR/Header/4)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR/Header/8/DL)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P3(HDR/Header/2)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P4(HDR/Header/2)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(R 1/4W/300)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=RELAY(HDR/Header/4)
+Added Component: Designator=(HDR/Header/20)
+Added Component: Designator=(HDR/Header/20)
+Add Component: Footprint Not Found PCBComponent_1 - duplicate
+Add Component: Footprint Not Found SOT229P700X180-4N
+Added Pin To Net: NetName=B12 Pin=-1
+Added Pin To Net: NetName=B13 Pin=-2
+Added Pin To Net: NetName=B14 Pin=-3
+Added Pin To Net: NetName=B11 Pin=-5
+Added Pin To Net: NetName=A9 Pin=-6
+Added Pin To Net: NetName=B10 Pin=-6
+Added Pin To Net: NetName=A10 Pin=-7
+Added Pin To Net: NetName=B6 Pin=-14
+Added Pin To Net: NetName=A1 Pin=-15
+Added Pin To Net: NetName=B7 Pin=-15
+Added Pin To Net: NetName=A0 Pin=-16
+Added Pin To Net: NetName=3.3V Pin=BH1750 I2C-1
+Added Pin To Net: NetName=GND Pin=BH1750 I2C-2
+Added Pin To Net: NetName=B6 Pin=BH1750 I2C-3
+Added Pin To Net: NetName=B7 Pin=BH1750 I2C-4
+Added Pin To Net: NetName=GND Pin=BH1750 I2C-5
+Added Pin To Net: NetName=B14 Pin=BZ1-1
+Added Pin To Net: NetName=GND Pin=BZ1-2
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=5V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=3.3V Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=5V Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=3.3V Pin=CAM BIEN DAT-1
+Added Pin To Net: NetName=GND Pin=CAM BIEN DAT-2
+Added Pin To Net: NetName=A0 Pin=CAM BIEN DAT-4
+Added Pin To Net: NetName=GND Pin=CON1-2
+Added Pin To Net: NetName=VCC Pin=CON1-3
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Added Pin To Net: NetName=3.3V Pin=DHT22-1
+Added Pin To Net: NetName=A1 Pin=DHT22-2
+Added Pin To Net: NetName=GND Pin=DHT22-3
+Added Pin To Net: NetName=A10 Pin=ESP01-1
+Added Pin To Net: NetName=3.3V Pin=ESP01-2
+Added Pin To Net: NetName=3.3V Pin=ESP01-6
+Added Pin To Net: NetName=GND Pin=ESP01-7
+Added Pin To Net: NetName=A9 Pin=ESP01-8
+Add Pin To Net: Unknown Pin: Pin LCD Oled-GND
+Add Pin To Net: Unknown Pin: Pin LCD Oled-GND
+Add Pin To Net: Unknown Pin: Pin LCD Oled-SCL
+Add Pin To Net: Unknown Pin: Pin LCD Oled-SCL
+Add Pin To Net: Unknown Pin: Pin LCD Oled-SDA
+Add Pin To Net: Unknown Pin: Pin LCD Oled-SDA
+Add Pin To Net: Unknown Pin: Pin LCD Oled-VCC
+Add Pin To Net: Unknown Pin: Pin LCD Oled-VCC
+Added Pin To Net: NetName=3.3V Pin=P1-1
+Added Pin To Net: NetName=5V Pin=P1-2
+Added Pin To Net: NetName=VCC Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=3.3V Pin=P2-1
+Added Pin To Net: NetName=3.3V Pin=P2-2
+Added Pin To Net: NetName=5V Pin=P2-3
+Added Pin To Net: NetName=5V Pin=P2-4
+Added Pin To Net: NetName=VCC Pin=P2-5
+Added Pin To Net: NetName=VCC Pin=P2-6
+Added Pin To Net: NetName=GND Pin=P2-7
+Added Pin To Net: NetName=GND Pin=P2-8
+Added Pin To Net: NetName=3.3V Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=5V Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=NetD1_1 Pin=R2-1
+Added Pin To Net: NetName=3.3V Pin=R2-2
+Added Pin To Net: NetName=5V Pin=RELAY-1
+Added Pin To Net: NetName=GND Pin=RELAY-2
+Added Pin To Net: NetName=B12 Pin=RELAY-3
+Added Pin To Net: NetName=B13 Pin=RELAY-4
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Added Member To Class: ClassName=Copy of DOAN1 Member=Component BH1750 I2C
+Added Member To Class: ClassName=DOAN1 Member=Component BH1750 I2C
+Added Member To Class: ClassName=Copy of DOAN1 Member=Component BZ1 Buzzer
+Added Member To Class: ClassName=DOAN1 Member=Component BZ1 Buzzer
+Added Member To Class: ClassName=DOAN1 Member=Component C1 10uF
+Added Member To Class: ClassName=DOAN1 Member=Component C2 10uF
+Added Member To Class: ClassName=DOAN1 Member=Component C3 10uF
+Added Member To Class: ClassName=DOAN1 Member=Component C4 10uF
+Added Member To Class: ClassName=Copy of DOAN1 Member=Component CAM BIEN DAT
+Added Member To Class: ClassName=DOAN1 Member=Component CAM BIEN DAT
+Added Member To Class: ClassName=DOAN1 Member=Component CON1 CON DC PWR
+Add Class Member: Failed to add class member : Component D1 LED RED
+Added Member To Class: ClassName=Copy of DOAN1 Member=Component DHT22
+Added Member To Class: ClassName=DOAN1 Member=Component DHT22
+Added Member To Class: ClassName=Copy of DOAN1 Member=Component ESP01 Component_1
+Added Member To Class: ClassName=DOAN1 Member=Component ESP01 Component_1
+Added Member To Class: ClassName=Copy of DOAN1 Member=Component LCD Oled
+Added Member To Class: ClassName=DOAN1 Member=Component LCD Oled
+Added Member To Class: ClassName=DOAN1 Member=Component P1 Header 4
+Added Member To Class: ClassName=DOAN1 Member=Component P2 Header 4X2
+Added Member To Class: ClassName=Copy of DOAN1 Member=Component P3 Header 2
+Added Member To Class: ClassName=Copy of DOAN1 Member=Component P4 Header 2
+Added Member To Class: ClassName=DOAN1 Member=Component R2 R
+Added Member To Class: ClassName=Copy of DOAN1 Member=Component RELAY
+Added Member To Class: ClassName=DOAN1 Member=Component RELAY
+Added Member To Class: ClassName=Copy of DOAN1 Member=Component  Header 20
+Added Member To Class: ClassName=Copy of DOAN1 Member=Component  Header 20
+Added Member To Class: ClassName=DOAN1 Member=Component  Header 20
+Added Member To Class: ClassName=DOAN1 Member=Component  Header 20
+Add Class Member: Failed to add class member : Component U1 L7805ACV
+Add Class Member: Failed to add class member : Component U2 AMS1117-3.3

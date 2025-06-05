@@ -1,0 +1,126 @@
+Removed Pin From Net: NetName=5V Pin=-1
+Added Component: Designator=*(HDR/Header/3)
+Added Component: Designator=*(HDR/Header/4)
+Added Component: Designator=BH1750 I2C(HDR/Header/5)
+Added Component: Designator=CAM BIEN DAT(HDR/Header/4)
+Added Component: Designator=R?(R 1/4W/300)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 1/4W/300)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 1/4W/300)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 1/4W/300)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 1/4W/300)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 1/4W/300)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 1/4W/300)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 1/4W/300)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=RELAY(HDR/Header/4)
+Added Component: Designator=(HDR/Header/20)
+Added Component: Designator=(HDR/Header/6)
+Add Pin To Net: Unknown Pin: Pin *-GND
+Add Pin To Net: Unknown Pin: Pin *-GND
+Add Pin To Net: Unknown Pin: Pin -GND
+Added Pin To Net: NetName=GND Pin=BH1750 I2C-2
+Add Pin To Net: Unknown Pin: Pin CAM BIEN DAT-GND
+Added Pin To Net: NetName=3.3V Pin=R?-1
+Added Pin To Net: NetName=3.3V Pin=R?-1
+Added Pin To Net: NetName=3.3V Pin=R?-2
+Added Pin To Net: NetName=3.3V Pin=R?-2
+Added Pin To Net: NetName=5V Pin=R?-2
+Added Pin To Net: NetName=5V Pin=R?-2
+Added Pin To Net: NetName=5V Pin=R?-2
+Added Pin To Net: NetName=5V Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Add Pin To Net: Unknown Pin: Pin RELAY-GND
+Added Pin To Net: NetName=A0 Pin=-16
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=-15
+Added Net: Name=A1
+Added Pin To Net: NetName=A9 Pin=-6
+Added Net: Name=A9
+Added Pin To Net: NetName=A10 Pin=-7
+Added Net: Name=A10
+Added Pin To Net: NetName=B6 Pin=-14
+Added Pin To Net: NetName=B6 Pin=BH1750 I2C-3
+Added Net: Name=B6
+Added Pin To Net: NetName=B7 Pin=-15
+Added Pin To Net: NetName=B7 Pin=BH1750 I2C-4
+Added Net: Name=B7
+Added Pin To Net: NetName=B12 Pin=-1
+Added Net: Name=B12
+Added Pin To Net: NetName=B13 Pin=-2
+Added Net: Name=B13
+Added Pin To Net: NetName=Net*_VCC Pin=R?-1
+Added Net: Name=Net*_VCC
+Add Net: Net with name "Net*_VCC" already exists
+Added Pin To Net: NetName=Net_EN Pin=R?-2
+Added Net: Name=Net_EN
+Added Pin To Net: NetName=Net_VCC Pin=R?-1
+Added Net: Name=Net_VCC
+Added Pin To Net: NetName=NetBH1750 I2C_1 Pin=BH1750 I2C-1
+Added Pin To Net: NetName=NetBH1750 I2C_1 Pin=R?-1
+Added Net: Name=NetBH1750 I2C_1
+Added Pin To Net: NetName=NetCAM BIEN DAT_VCC Pin=R?-1
+Added Net: Name=NetCAM BIEN DAT_VCC
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Net: Name=NetR?_1
+Added Member To Class: ClassName=Sheet1 Member=Component * DHT22
+Added Member To Class: ClassName=Sheet1 Member=Component * LCD WITH I2C
+Added Member To Class: ClassName=Sheet1 Member=Component BH1750 I2C
+Added Member To Class: ClassName=Sheet1 Member=Component CAM BIEN DAT
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0
+Added Member To Class: ClassName=Sheet1 Member=Component RELAY
+Added Member To Class: ClassName=Sheet1 Member=Component  Header 20
+Added Member To Class: ClassName=Sheet1 Member=Component  Header 20

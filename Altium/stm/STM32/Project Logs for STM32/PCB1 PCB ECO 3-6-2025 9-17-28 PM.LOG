@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=Sheet1 Member=ESP12-F
+Added Component: Designator=*(HDR/Header/6)
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=A9 Pin=*-3
+Added Pin To Net: NetName=A10 Pin=*-4
+Added Pin To Net: NetName=3.3V Pin=*-5
+Add Pin To Net: Unknown Pin: Pin DHT22-OUT
+Add Pin To Net: Unknown Pin: Pin LCD WITH I2C-SCL
+Add Pin To Net: Unknown Pin: Pin LCD WITH I2C-SDA
+Add Pin To Net: Unknown Pin: Pin RELAY-IN1
+Add Pin To Net: Unknown Pin: Pin RELAY-IN2
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=R4-1
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Pin To Net: NetName=Net*_6 Pin=R9-2
+Added Net: Name=Net*_6
+Added Member To Class: ClassName=Sheet1 Member=Component * ESP12-F
+Added Member To Class: ClassName=Sheet1 Member=Component  Header 20

@@ -1,0 +1,32 @@
+Change Component Footprint: Designator=D1 Old Footprint=Led 0805 New Footprint=LED 10MM - RED
+Change Component Comment : Designator= Old Comment=LCD WITH I2C New Comment=LCD OLED
+Change Component Comment : Designator=D1 Old Comment=Led New Comment=LED RED
+Change Component Designator: OldDesignator= NewDesignator=C4
+Change Component Designator: OldDesignator= NewDesignator=BH1750 I2C
+Change Component Designator: OldDesignator= NewDesignator=C1
+Change Component Designator: OldDesignator= NewDesignator=C3
+Change Component Designator: OldDesignator= NewDesignator=CAM BIEN DAT
+Change Component Designator: OldDesignator= NewDesignator=CON1
+Change Component Designator: OldDesignator= NewDesignator=DHT22
+Change Component Designator: OldDesignator= NewDesignator=ESP-12F
+Change Component Designator: OldDesignator= NewDesignator=LCD OLED
+Change Component Designator: OldDesignator= NewDesignator=P3
+Change Component Designator: OldDesignator= NewDesignator=R1
+Change Component Designator: OldDesignator= NewDesignator=RELAY
+Change Component Designator: OldDesignator= NewDesignator=U1
+Change Class Name : Old Net Name=Sheet1 New Net Name=DOAN1
+Added Member To Class: ClassName=DOAN1 Member=Component BH1750 I2C
+Added Member To Class: ClassName=DOAN1 Member=Component C1 10uF
+Added Member To Class: ClassName=DOAN1 Member=Component C3 10uF
+Added Member To Class: ClassName=DOAN1 Member=Component C4 10uF
+Added Member To Class: ClassName=DOAN1 Member=Component CAM BIEN DAT
+Added Member To Class: ClassName=DOAN1 Member=Component CON1 CON DC PWR
+Added Member To Class: ClassName=DOAN1 Member=Component DHT22
+Added Member To Class: ClassName=DOAN1 Member=Component ESP-12F
+Added Member To Class: ClassName=DOAN1 Member=Component LCD OLED
+Added Member To Class: ClassName=DOAN1 Member=Component P3 Header 2
+Added Member To Class: ClassName=DOAN1 Member=Component R1 0
+Added Member To Class: ClassName=DOAN1 Member=Component RELAY
+Added Member To Class: ClassName=DOAN1 Member=Component  Header 20
+Added Member To Class: ClassName=DOAN1 Member=Component  Header 20
+Added Member To Class: ClassName=DOAN1 Member=Component U1 L7805ACV

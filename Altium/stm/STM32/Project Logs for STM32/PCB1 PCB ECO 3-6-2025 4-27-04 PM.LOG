@@ -1,0 +1,7 @@
+Change Designator: Invalid Designator
+Add Component: Footprint Not Found FP-PS1440P02BT-MFG
+Add Pin To Net: Unknown Pin: Pin LS1-1
+Add Pin To Net: Unknown Pin: Pin LS1-2
+Add Class Member: Failed to add class member : Component LS1 PS1440P02BT
+Added Member To Class: ClassName=Sheet1 Member=Component  Header 20
+Added Member To Class: ClassName=Sheet1 Member=Component  LCD WITH I2C

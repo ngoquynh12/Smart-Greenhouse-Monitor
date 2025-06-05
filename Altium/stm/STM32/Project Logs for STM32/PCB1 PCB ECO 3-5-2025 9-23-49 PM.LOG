@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=3.3V Pin=R2-2
+Removed Member From Class: ClassName=Sheet1 Member=R2
+Change Component Footprint: Designator=D1 Old Footprint=LED 10MM - RED New Footprint=Led 0805
+Change Component Comment : Designator=D1 Old Comment=LED RED New Comment=Led
+Change Component Designator: OldDesignator=U1 NewDesignator=U?
+Added Pin To Net: NetName=3.3V Pin=D1-1
+Added Member To Class: ClassName=Sheet1 Member=Component  Header 20

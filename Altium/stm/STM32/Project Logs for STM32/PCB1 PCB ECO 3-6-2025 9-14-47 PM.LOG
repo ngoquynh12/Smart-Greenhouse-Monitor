@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=GND Pin=CAM BIEN DAT-2
+Added Pin To Net: NetName=A0 Pin=CAM BIEN DAT-4
+Add Pin To Net: Unknown Pin: Pin DHT22-OUT
+Add Pin To Net: Unknown Pin: Pin ESP12-F-EN
+Add Pin To Net: Unknown Pin: Pin ESP12-F-GND
+Add Pin To Net: Unknown Pin: Pin ESP12-F-GPIO
+Add Pin To Net: Unknown Pin: Pin ESP12-F-RX
+Add Pin To Net: Unknown Pin: Pin ESP12-F-TX
+Add Pin To Net: Unknown Pin: Pin ESP12-F-VCC
+Add Pin To Net: Unknown Pin: Pin LCD WITH I2C-SCL
+Add Pin To Net: Unknown Pin: Pin LCD WITH I2C-SDA
+Add Pin To Net: Unknown Pin: Pin RELAY-IN1
+Add Pin To Net: Unknown Pin: Pin RELAY-IN2
+Added Pin To Net: NetName=NetCAM BIEN DAT_1 Pin=CAM BIEN DAT-1
+Added Pin To Net: NetName=NetCAM BIEN DAT_1 Pin=R6-1
+Added Net: Name=NetCAM BIEN DAT_1
+Added Member To Class: ClassName=Sheet1 Member=Component  Header 20

@@ -1,0 +1,22 @@
+Added Component: Designator=P?(HDR/Header/19)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR/Header/19)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vin Pin=CON1-3
+Change Net Name : Old Net Name=Vin New Net Name=VCC
+Added Member To Class: ClassName=Sheet1 Member=Component C1 C
+Added Member To Class: ClassName=Sheet1 Member=Component C2 C
+Added Member To Class: ClassName=Sheet1 Member=Component C3 C
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 19
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 19
+Added Rule: Name=Schematic Supply Nets_1

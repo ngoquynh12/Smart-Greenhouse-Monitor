@@ -1,0 +1,31 @@
+Change Component Comment : Designator=* Old Comment=ESP12-F New Comment=
+Change Component Designator: OldDesignator=* NewDesignator=ESP-12F
+Added Component: Designator=R?(R 1/4W/300)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A1 Pin=DHT22-2
+Added Pin To Net: NetName=GND Pin=DHT22-3
+Added Pin To Net: NetName=GND Pin=LCD WITH I2C-1
+Added Pin To Net: NetName=B7 Pin=LCD WITH I2C-3
+Added Pin To Net: NetName=B6 Pin=LCD WITH I2C-4
+Added Pin To Net: NetName=5V Pin=R?-2
+Added Pin To Net: NetName=GND Pin=RELAY-2
+Added Pin To Net: NetName=B12 Pin=RELAY-3
+Added Pin To Net: NetName=B13 Pin=RELAY-4
+Change Net Name : Old Net Name=Net*_1 New Net Name=NetESP-12F_1
+Change Net Name : Old Net Name=Net*_6 New Net Name=NetESP-12F_6
+Added Pin To Net: NetName=NetDHT22_1 Pin=DHT22-1
+Added Pin To Net: NetName=NetDHT22_1 Pin=R7-1
+Added Net: Name=NetDHT22_1
+Added Pin To Net: NetName=NetLCD WITH I2C_2 Pin=LCD WITH I2C-2
+Added Pin To Net: NetName=NetLCD WITH I2C_2 Pin=R5-1
+Added Net: Name=NetLCD WITH I2C_2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=RELAY-1
+Added Net: Name=NetR?_1
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet1 Member=Component  Header 20

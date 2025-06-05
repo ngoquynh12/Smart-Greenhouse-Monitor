@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VCC Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=5V Pin=U1-3
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Add Component: Footprint Not Found TO220
+Add Pin To Net: Unknown Pin: Pin U?-1
+Add Pin To Net: Unknown Pin: Pin U?-2
+Add Pin To Net: Unknown Pin: Pin U?-3
+Added Member To Class: ClassName=Sheet1 Member=Component  Header 20
+Add Class Member: Failed to add class member : Component U? L7805ACV

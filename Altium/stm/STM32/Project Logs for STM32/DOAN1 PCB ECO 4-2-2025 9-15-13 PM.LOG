@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=3.3V Pin=ESP-12F-1
+Removed Pin From Net: NetName=GND Pin=ESP-12F-2
+Removed Pin From Net: NetName=A9 Pin=ESP-12F-3
+Removed Pin From Net: NetName=A10 Pin=ESP-12F-4
+Removed Pin From Net: NetName=3.3V Pin=ESP-12F-6
+Removed Pin From Net: NetName=GND Pin=LCD OLED-1
+Removed Pin From Net: NetName=5V Pin=LCD OLED-2
+Removed Pin From Net: NetName=B11 Pin=LCD OLED-3
+Removed Pin From Net: NetName=B10 Pin=LCD OLED-4
+Removed Member From Class: ClassName=DOAN1 Member=ESP-12F
+Removed Member From Class: ClassName=DOAN1 Member=LCD OLED
+Added Component: Designator=*(HDR/Header/4)
+Add Component: Footprint Not Found BUZZER
+Add Component: Footprint Not Found ESP8266 ESP-01
+Add Pin To Net: Unknown Pin: Pin *-GND
+Add Pin To Net: Unknown Pin: Pin *-SCL
+Add Pin To Net: Unknown Pin: Pin *-SDA
+Add Pin To Net: Unknown Pin: Pin *-VCC
+Added Pin To Net: NetName=GND Pin=BH1750 I2C-5
+Add Pin To Net: Unknown Pin: Pin BZ1-2
+Add Pin To Net: Unknown Pin: Pin M1-1
+Add Pin To Net: Unknown Pin: Pin M1-2
+Add Pin To Net: Unknown Pin: Pin M1-6
+Add Pin To Net: Unknown Pin: Pin M1-7
+Add Pin To Net: Unknown Pin: Pin M1-8
+Added Pin To Net: NetName=B14 Pin=-3
+Added Net: Name=B14
+Added Member To Class: ClassName=DOAN1 Member=Component * LCD Oled
+Add Class Member: Failed to add class member : Component BZ1 Buzzer
+Add Class Member: Failed to add class member : Component M1 ESP8266 ESP-01
+Added Member To Class: ClassName=DOAN1 Member=Component  Header 20

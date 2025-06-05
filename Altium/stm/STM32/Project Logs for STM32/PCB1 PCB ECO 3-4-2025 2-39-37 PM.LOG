@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=U1 Old Footprint=TO255P1040X460X1968-3 New Footprint=TO-220
+Change Component Comment : Designator=U1 Old Comment=L7805CV New Comment=78xx
+Change component parameters: Designator = "U1" ("U1"); Footprint = "TO255P1040X460X1968-3"; UniqueID = "\LVBLITIX" ("\LVBLITIX")
+Change component parameters (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"

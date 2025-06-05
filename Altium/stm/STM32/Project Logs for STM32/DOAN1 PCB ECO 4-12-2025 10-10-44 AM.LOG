@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=3.3V Pin=LCD Oled-1
+Removed Pin From Net: NetName=GND Pin=LCD Oled-2
+Removed Pin From Net: NetName=B10 Pin=LCD Oled-3
+Removed Pin From Net: NetName=B11 Pin=LCD Oled-4
+Added Component: Designator=BZ1(BUZZER)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ESP01(ESP8266 ESP-01)
+Added Pin To Net: NetName=B14 Pin=BZ1-1
+Added Pin To Net: NetName=GND Pin=BZ1-2
+Added Pin To Net: NetName=A10 Pin=ESP01-1
+Added Pin To Net: NetName=3.3V Pin=ESP01-2
+Added Pin To Net: NetName=3.3V Pin=ESP01-6
+Added Pin To Net: NetName=GND Pin=ESP01-7
+Added Pin To Net: NetName=A9 Pin=ESP01-8
+Add Pin To Net: Unknown Pin: Pin LCD Oled-GND
+Add Pin To Net: Unknown Pin: Pin LCD Oled-SCL
+Add Pin To Net: Unknown Pin: Pin LCD Oled-SDA
+Add Pin To Net: Unknown Pin: Pin LCD Oled-VCC
+Added Member To Class: ClassName=DOAN1 Member=Component BZ1 Buzzer
+Added Member To Class: ClassName=DOAN1 Member=Component ESP01 Component_1
+Added Member To Class: ClassName=DOAN1 Member=Component LCD Oled
+Added Member To Class: ClassName=DOAN1 Member=Component  Header 20
+Added Member To Class: ClassName=DOAN1 Member=Component  Header 20
+Added Member To Class: ClassName=DOAN1 Member=Component U1 L7805ACV
+Added Member To Class: ClassName=DOAN1 Member=Component U2 AMS1117-3.3

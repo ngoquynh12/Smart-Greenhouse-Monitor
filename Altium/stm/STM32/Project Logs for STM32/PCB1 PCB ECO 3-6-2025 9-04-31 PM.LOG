@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=Net*_VCC Pin=R?-1
+Change Component Comment : Designator=R? Old Comment=0 New Comment=10K
+Change Component Comment : Designator=R? Old Comment=0 New Comment=10K
+Change Component Comment : Designator=R? Old Comment=0 New Comment=10K
+Change Component Comment : Designator=R? Old Comment=0 New Comment=10K
+Change Component Comment : Designator=R? Old Comment=0 New Comment=10K
+Change Component Comment : Designator=R? Old Comment=0 New Comment=10K
+Change Component Comment : Designator=R? Old Comment=0 New Comment=10K
+Change Component Comment : Designator=R? Old Comment=0 New Comment=10K
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Add Pin To Net: Unknown Pin: Pin *-GND
+Add Pin To Net: Unknown Pin: Pin *-GND
+Add Pin To Net: Unknown Pin: Pin *-OUT
+Add Pin To Net: Unknown Pin: Pin *-SCL
+Add Pin To Net: Unknown Pin: Pin *-SDA
+Add Pin To Net: Unknown Pin: Pin *-VCC
+Add Pin To Net: Unknown Pin: Pin -EN
+Add Pin To Net: Unknown Pin: Pin -GND
+Add Pin To Net: Unknown Pin: Pin -RX
+Add Pin To Net: Unknown Pin: Pin -TX
+Add Pin To Net: Unknown Pin: Pin -VCC
+Add Pin To Net: Unknown Pin: Pin CAM BIEN DAT-A0
+Add Pin To Net: Unknown Pin: Pin CAM BIEN DAT-GND
+Add Pin To Net: Unknown Pin: Pin CAM BIEN DAT-VCC
+Added Pin To Net: NetName=Net*_VCC Pin=R7-1
+Add Pin To Net: Unknown Pin: Pin RELAY-GND
+Add Pin To Net: Unknown Pin: Pin RELAY-IN1
+Add Pin To Net: Unknown Pin: Pin RELAY-IN2
+Add Net: Net with name "Net*_VCC" already exists
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Net: Name=NetR3_1
+Added Member To Class: ClassName=Sheet1 Member=Component * DHT22
+Added Member To Class: ClassName=Sheet1 Member=Component R2 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R4 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R5 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R6 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R7 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R8 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R9 10K
+Added Member To Class: ClassName=Sheet1 Member=Component  Header 20
+Added Member To Class: ClassName=Sheet1 Member=Component  Header 20

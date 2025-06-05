@@ -1,0 +1,10 @@
+Change Designator: Invalid Designator
+Added Component: Designator=BH1750 I2C(HDR/Header/5)
+Add Component: Footprint Not Found FP-PS1440P02BT-MFG
+Add Pin To Net: Unknown Pin: Pin LS1-1
+Add Pin To Net: Unknown Pin: Pin LS1-2
+Added Member To Class: ClassName=Sheet1 Member=Component BH1750 I2C
+Add Class Member: Failed to add class member : Component LS1 PS1440P02BT
+Added Member To Class: ClassName=Sheet1 Member=Component  DHT22
+Added Member To Class: ClassName=Sheet1 Member=Component  Header 20
+Added Member To Class: ClassName=Sheet1 Member=Component  LCD WITH I2C

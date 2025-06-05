@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=ESP-12F-5
+Removed Pin From Net: NetName=3.3V Pin=R8-1
+Removed Pin From Net: NetName=GND Pin=R8-2
+Removed Member From Class: ClassName=Sheet1 Member=R8
+Added Member To Class: ClassName=Sheet1 Member=Component  Header 20
+Added Member To Class: ClassName=Sheet1 Member=Component  Header 20

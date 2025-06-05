@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=Sheet1 Member=*
+Removed Member From Class: ClassName=Sheet1 Member=P5
+Removed Member From Class: ClassName=Sheet1 Member=P6
+Removed Member From Class: ClassName=Sheet1 Member=P7
+Removed Member From Class: ClassName=Sheet1 Member=P8
+Added Component: Designator=(HDR/Header/20)
+Added Component: Designator=(HDR/Header/20)
+Added Member To Class: ClassName=Sheet1 Member=Component  Header 20
+Added Member To Class: ClassName=Sheet1 Member=Component  Header 20
